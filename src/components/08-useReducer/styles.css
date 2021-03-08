@@ -1,0 +1,28 @@
+body{
+    padding: 50px;
+}
+
+p{
+    cursor: pointer;
+    margin: 0px;
+    min-width: 87%;
+}
+
+.list-group-item{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.complete{
+    text-decoration: line-through;
+    background-color: rgb(206, 255, 206);
+}
+
+
+.contenedor-form{
+    border: solid rgb(194, 194, 194) 1px;
+    max-height: 166px;
+    background-color: rgb(236, 244, 255);
+}
+
