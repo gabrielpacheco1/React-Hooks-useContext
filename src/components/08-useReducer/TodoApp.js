@@ -49,8 +49,6 @@ export const TodoApp = () => {
             payload: newTodo
         });
     }
-
-    
     
     return (
         <div>
